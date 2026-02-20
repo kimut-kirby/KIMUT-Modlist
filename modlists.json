@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "KIMUT Modlist",
+    "description": "Experience Skyrim through a new lens. by leveraging Advanced Complex Materials, KIMUT Modlist transforms every surface into a masterpiece of light and shadow.",
+    "author": "Kirbyking",
+    "maintainers": [
+      "github/kimut-kirby"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Total Overhaul"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/kimut-kirby/KIMUT-Modlist/refs/heads/main/KIMUT.webp",
+      "readme": "https://github.com/kimut-kirby/KIMUT-Modlist/blob/main/KIMUT%20Tutorial%20Install.pdf",
+      "download": "https://authored-files.wabbajack.org/KIMUT%20NSFW%202026%20Modlist.wabbajack_0b537ee1-3fc8-4253-9c99-6dcc15838b39",
+      "machineURL": "KIMUTModlist",
+      "discordURL": "https://discord.com/invite/4N4rWBFVKP"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "m4x37IOSEek=",
+      "Size": 139941831,
+      "NumberOfArchives": 1974,
+      "SizeOfArchives": 177388357503,
+      "NumberOfInstalledFiles": 312602,
+      "SizeOfInstalledFiles": 273110918514
+    },
+    "version": "1.4.0"
+  }
+]
